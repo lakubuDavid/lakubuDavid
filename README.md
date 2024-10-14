@@ -6,7 +6,7 @@
 - 📫 How to reach me lakubudavid@gmail.com , pro.lakubudavid@gmail.com
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakubudavid&show_icons=true&theme=github_dark_dimmed)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakubudavid&layout=compact&theme=github_dark_dimmed&hide=Makefile,json&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakubudavid&layout=compact&theme=github_dark_dimmed&hide=makefile,json,cmake&langs_count=8)
 <!---
 lakubuDavid/lakubuDavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
