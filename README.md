@@ -5,6 +5,7 @@
 - 👨‍💻 Mostly Python,Lua,Javascript/Typescript,Node/Bun,C# and Godot.
 - 📫 How to reach me lakubudavid@gmail.com , pro.lakubudavid@gmail.com
 
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakubudavid&show_icons=true&theme=github_dark_dimmed)
 <!---
 lakubuDavid/lakubuDavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
