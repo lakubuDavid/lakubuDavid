@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @lakubuDavid
-- 👀 I’m interested in Web development, Game Development 
-- 🌱 I’m currently learning Go,Java and Php.
-- 🧪 I do a little bit of Python ,Lua ,C++ ,C# ,NuxtJS and Game development on Godot
-- 👨‍💻 Mostly Python,Lua,Javascript/Typescript,Node/Bun,C# and Godot.
-- 📫 How to reach me lakubudavid@gmail.com , pro.lakubudavid@gmail.com
+- I do mostly web and backend development in React, Typescript (and Go when I'm free) these days
+- I’m interested in Electronics,Hardware Programming, Web development and Game Development
+- I’m currently learning async C++.
+- I do a little bit of Python ,Lua ,C++ ,C# ,React and Game development on Godot
+- Mostly Javascript/Typescript,Lua,Node/Bun,C#, Godot and Python.
+- How to reach me contact@lakubudavid.me
+
+Checkout lakubudavid.me and tell me if its ugly.
 
 ![David's GitHub stats](https://github-stats-extended.vercel.app/api?username=lakubudavid&show_icons=true&theme=github_dark_dimmed)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=lakubudavid&layout=compact&theme=github_dark_dimmed&hide=makefile,json,cmake&langs_count=8)
