@@ -4,19 +4,20 @@
 - I’m currently learning async C++.
 - I do a little bit of Python ,C++ ,C# and Game development on Godot
 - Mostly Javascript/Typescript,Lua,Node/Bun,C#, Godot and Python.
-- How to reach me contact@lakubudavid.me
+- How to reach me [contact@lakubudavid.me](mailto:contact@lakubudavid.me)
 
-Checkout lakubudavid.me and tell me if its ugly.
 
 I am currently experimenting with coconut-milk, webview based UI framework in C++ that uses Lua,
 while the first version is 70%+ generated, since I have a prototype, I can start working on improvng it,
 my first task currently is to add multithreading and I think I am starting to understand it.
 
-I still have a webserver  made 3 years ago in C++ with lua, I plan on improvng on it and
+I still have a webserver I made 3 years ago in C++ with lua, I plan on improvng on it and
 - Replace the raw lua binding with sol3
 - Fix static file serving
 - Make request handling multi-threaded
 - Add HTTPS support
+
+Checkout [lakubudavid.me](lakubudavid.me) and tell me if its ugly.
 
 ![David's GitHub stats](https://github-stats-extended.vercel.app/api?username=lakubudavid&show_icons=true&theme=github_dark_dimmed)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=lakubudavid&layout=compact&theme=github_dark_dimmed&hide=makefile,json,cmake&langs_count=8)
